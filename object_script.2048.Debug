@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/grid.o
+./debug/tile.o
+./debug/cell.o
+./debug/animation.o
+./debug/mainw.o
+./debug/moc_grid.o
+./debug/moc_cell.o
+./debug/moc_animation.o
+./debug/moc_mainw.o
+./debug/qrc_image.o
+);

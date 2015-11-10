@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/grid.o
+./release/tile.o
+./release/cell.o
+./release/animation.o
+./release/mainw.o
+./release/moc_grid.o
+./release/moc_cell.o
+./release/moc_animation.o
+./release/moc_mainw.o
+./release/qrc_image.o
+);
